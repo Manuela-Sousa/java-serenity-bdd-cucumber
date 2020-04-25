@@ -1,6 +1,6 @@
 # Sample project to use Selenium tests with SerenityBDD, Cucumber and Java
 
-This is a sample starter project to use Selenium tests with SerenityBDD, Cucumber and Java.
+This is a sample starter project to use Selenium tests with SerenityBDD, Cucumber and Java. Serenity BDD is a framework that simplifies a lot the implementation of test automation and allows to write better quality automated acceptance tests and also faster.
 
 ### Organization of the project
 
